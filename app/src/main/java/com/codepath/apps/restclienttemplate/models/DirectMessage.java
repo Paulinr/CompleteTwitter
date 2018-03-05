@@ -1,7 +1,7 @@
 package com.codepath.apps.restclienttemplate.models;
 
 /**
- * Created by anushree on 10/8/2017.
+ * Created by Ingenieur PaulinR 03/03/2018.
  */
 
 import android.os.Parcel;

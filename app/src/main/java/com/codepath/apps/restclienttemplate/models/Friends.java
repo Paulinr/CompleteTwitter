@@ -16,7 +16,7 @@ import org.json.JSONObject;
 import java.util.ArrayList;
 
 /**
- * Created by anushree on 10/5/2017.
+ * Created by Ing Paulinr on 03/03/2018.
  */
 @Table(database = MyDatabase.class)
 @org.parceler.Parcel(analyze={Friends.class})

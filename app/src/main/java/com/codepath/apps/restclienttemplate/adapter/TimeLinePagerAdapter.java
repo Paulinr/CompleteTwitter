@@ -16,7 +16,7 @@ import com.codepath.apps.restclienttemplate.fragments.SearchFragment;
 import com.codepath.apps.restclienttemplate.fragments.TweetListFragment;
 
 /**
- * Created by anushree on 10/3/2017.
+ * Created by Ing Paulinr on 03/03/2018.
  */
 
 public class TimeLinePagerAdapter extends FragmentPagerAdapter {

@@ -3,7 +3,7 @@ package com.codepath.apps.restclienttemplate.models;
 import java.io.Serializable;
 
 /**
- * Created by anushree on 9/29/2017.
+ * Created by Ing Paulinr on 03/03/2018.
  */
 
 public class DraftTweet implements Serializable {

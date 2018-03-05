@@ -13,7 +13,7 @@ import org.json.JSONException;
 import org.json.JSONObject;
 
 /**
- * Created by anushree on 9/26/2017.
+ * Created by Ing Paulinr on 03/03/2018.
  */
 
 @Table(database = MyDatabase.class)

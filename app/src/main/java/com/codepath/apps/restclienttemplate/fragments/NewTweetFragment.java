@@ -35,7 +35,7 @@ import org.w3c.dom.Text;
 import java.util.ArrayList;
 
 /**
- * Created by anushree on 9/28/2017.
+ * Created by Ing Paulinr on 03/03/2018.
  */
 
 public class NewTweetFragment extends DialogFragment implements DraftFragment.DraftSelectedListener {

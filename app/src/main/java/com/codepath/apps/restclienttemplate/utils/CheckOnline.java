@@ -3,7 +3,7 @@ package com.codepath.apps.restclienttemplate.utils;
 import java.io.IOException;
 
 /**
- * Created by anushree on 10/8/2017.
+ * Created by Ing Paulinr on 03/03/2018.
  */
 
 public class CheckOnline {

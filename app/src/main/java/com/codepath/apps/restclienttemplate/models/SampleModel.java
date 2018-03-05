@@ -20,6 +20,8 @@ import java.util.List;
  * Note: All models **must extend from** `BaseModel` as shown below.
  * 
  */
+
+
 @Table(database = MyDatabase.class)
 public class SampleModel extends BaseModel {
 

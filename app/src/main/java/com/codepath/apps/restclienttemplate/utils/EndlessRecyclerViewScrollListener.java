@@ -7,7 +7,7 @@ import android.support.v7.widget.StaggeredGridLayoutManager;
 import android.widget.AbsListView;
 
 /**
- * Created by anushree on 9/27/2017.
+ * Created by Ing Paulinr on 03/03/2018.
  */
 
 public abstract class EndlessRecyclerViewScrollListener extends RecyclerView.OnScrollListener {
